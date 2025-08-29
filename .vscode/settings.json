@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    },
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "omnisharp.dotnetPath": "/usr/local/share/dotnet/dotnet",
+    "terminal.integrated.env.osx": {
+        "PATH": "/usr/local/share/dotnet:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+    }
+}
